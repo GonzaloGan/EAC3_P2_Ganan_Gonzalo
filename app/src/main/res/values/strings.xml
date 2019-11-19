@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">EAC3_P2_Ganan_Gonzalo</string>
     <string name="title_activity_maps">Map</string>
+    <string name="actual_location_btn">Actual location</string>
 </resources>
